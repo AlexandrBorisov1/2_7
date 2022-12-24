@@ -9,3 +9,4 @@ def holes_count(number):
         col_holes += holes_dict[i]
     return col_holes
 
+print(holes_count(898))
